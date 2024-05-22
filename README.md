@@ -12,4 +12,4 @@ changelog: 2024-05-22 22:22:51
 
 以前的模板内容也有保存，就是除了 index.html 之外的所有内容，如果你更喜欢以前的模板，可以将它下载之后，将 index.html 删除，然后将 index-backup.html 重命名为 index.html 即可
 
-如果你更喜欢现在的网站，想要基于现在的模板去做一些改动，做一个专属于自己的个人导航站，只下载 index.html 即可
+如果你更喜欢现在的网站，想要基于现在的模板去做一些改动，做一个专属于自己的个人导航站，只下载 index.html & /assets/js/tailwindcss.js 即可
